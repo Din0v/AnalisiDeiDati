@@ -1,0 +1,5 @@
+# La funzione punteggio
+In statistica, la funzione punteggio (o score function) è una derivata parziale del logaritmo della funzione di verosimiglianza rispetto ai parametri del modello. La funzione punteggio è utilizzata in inferenza statistica, in particolare nella stima dei massimi verosimili (MLE) e nelle analisi di robustezza.
+
+
+La funzione punteggio è particolarmente utile per la sua proprietà di essere asintoticamente centrata sulla vera valore del parametro. In altre parole, al crescere della dimensione del campione, la media della funzione punteggio converge al valore del parametro reale, secondo il teorema del limite centrale. Questa proprietà è alla base dell'inferenza statistica basata su [[Massima verosimiglianza]] e dell'approssimazione asintotica della distribuzione delle stime dei parametri.

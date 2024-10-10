@@ -1,0 +1,21 @@
+# Data science Resources 
+1.  [awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
+2. [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+3. [ML glossary](https://github.com/bfortuner/ml-glossary)
+4. [HomeMade machine learning](https://github.com/trekhleb/homemade-machine-learning)
+5. [awesome ai residency](https://github.com/dangkhoasdc/awesome-ai-residency)
+6. [Deep learning project](https://github.com/Spandan-Madan/DeepLearningProject)
+7. [Machine learning interview](https://github.com/khangich/machine-learning-interview)
+8. [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+9. [Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
+10. [awesome-mlops](https://github.com/visenger/awesome-mlops)  
+11. [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+12. [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers#machine-learning)
+13. [Machine-Learning-for-Cyber-Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
+14. [start-machine-learning](https://github.com/louisfb01/start-machine-learning)
+15. [(awesome-python](https://github.com/vinta/awesome-python)
+16. [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
+17. [awesome-aws](https://github.com/donnemartin/awesome-aws)
+18. [handson-ml](https://github.com/ageron/handson-ml)
+19. 
+20. 
