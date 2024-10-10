@@ -1,0 +1,1 @@
+# Companion to applied regression 
